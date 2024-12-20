@@ -1,0 +1,7 @@
+﻿  Odbicie.cpp
+C:\Users\Lenovo\Desktop\polsl\sem_5\JA\Odbicie_1_wersja\Odbicie\Odbicie.cpp(6,6): warning C4273: "flipHorizontal": niespójne powiązanie biblioteki dll
+  (kompilowanie pliku źródłowego „/Odbicie.cpp”)
+      C:\Users\Lenovo\Desktop\polsl\sem_5\JA\Odbicie_1_wersja\Odbicie\Odbicie.h(3,39):
+      zobacz poprzednią definicję „flipHorizontal”
+  
+  Odbicie.vcxproj -> C:\Users\Lenovo\Desktop\polsl\sem_5\JA\Odbicie_1_wersja\x64\Debug\Odbicie.dll

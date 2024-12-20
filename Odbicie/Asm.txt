@@ -1,0 +1,11 @@
+threads.push_back(std::thread(WazSr, bitmap, width, height, startRow, endRow));//asembly
+// ładowanie zmiennych
+bitmab do rcx
+width do rdx
+height do r8
+startRow do r9
+endRow na stosie
+---------------------
+praca ze stosem
+
+[rsp + 40] - stack pointer tu endRow
